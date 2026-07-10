@@ -1,4 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://Piyushraghav994)
+![logo](https://github.com/Piyushraghav02112002/Piyushraghav02112002/blob/main/github-banner-v7.svg)
+<!--[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://Piyushraghav994)
 <!--https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif-->
 # 💫 About Me:
 ### Hi, I'm Piyush Raghav 👋<br>## Java Backend Developer | Spring Boot • Spring Security • REST APIs<br><br>I'm a final-year Computer Science (AI) student, building secure and scalable backend systems with **Java** and **Spring Boot**. I focus on writing clean, production-style APIs — from REST endpoints and JPA/Hibernate data layers, to authentication flows powered by **Spring Security** and **JWT**.<br><br># 💻 Tech Stack:
